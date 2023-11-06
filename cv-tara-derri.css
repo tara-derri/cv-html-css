@@ -1,0 +1,218 @@
+
+body {
+
+    background-image: url('images/imagefond.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat
+}
+
+header h1 {
+    font-size: 50px;
+    color:  rgb(255, 255, 255);
+
+}
+
+header {
+    background-color: #2c2925;
+    padding: 5px;
+    text-align: center;
+    border-radius: 15px;
+    border: 3px solid  rgb(255, 255, 255);
+    opacity: 0.5;
+
+}
+
+section.informations h2 {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+}
+
+li.nom {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+
+}
+
+li.email {
+font-size: 20px;
+color: rgb(250, 247, 247);
+
+}
+
+li.telephone {
+font-size: 20px;
+color: rgb(255, 255, 255);
+
+}
+
+li.adresse {
+font-size: 20px;
+color: rgb(255, 255, 255);
+
+}
+
+li.permis {
+font-size: 20px;
+color: rgb(255, 255, 255);
+}
+
+section.experiences h2 {
+
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+}
+
+
+h3.vendeuse {
+
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.caissiere {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.Animatrice {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.garde {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+h3.equipiere {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+section.formations {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+}
+
+
+section.formations h2 {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+
+}
+
+h3.datet1 {
+    font size: 17px;
+    color:  rgb(255, 253, 253)
+
+}
+
+p.fac {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+}
+h3.date2 {
+    font size: 17px;
+    color:  rgb(255, 253, 253)
+
+}
+
+p.bac {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+
+h3.date3 {
+    font size: 17px;
+    color:  rgb(255, 253, 253)
+
+}
+
+p.Brevet {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+
+
+section.Objectif h2 {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+
+}
+
+section.Objectif li {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+
+}
+
+section.competences h2 {
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;
+
+}
+
+section.competences li {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+
+section.moncv p {
+
+    font-size: 20px;
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 50px;
+    font-family: ;
+    text-transform: uppercase;    
+}
+
+section.moncv a {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+
+footer {
+    font-size: 21px;
+    color: rgb(255, 253, 253);
+}
+}
